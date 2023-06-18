@@ -8,6 +8,8 @@ Topics include inductive synthesis, bottom up search, top down search, version s
 Students will design and implement [two assignments](assignments.html) and a final project in the language(s) of their choice.
 Each student will also present a paper and lead the discussion for one session.
 
+- [Syllabus](syllabus.html)
+
 ## Resources
 
 - [Armando Solar-Lezama's Introduction to Program Synthesis](http://people.csail.mit.edu/asolar/SynthesisCourse/TOC.htm)
