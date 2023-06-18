@@ -10,7 +10,7 @@ Class meeting room: SEC 1.307
 
 Course website: https://synthesis.metareflection.club
 
-Instructor: Nada Amin (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
+Instructor: [Nada Amin](https://namin.seas.harvard.edu) (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
 
 Teaching Fellow: TBD
 
