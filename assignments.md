@@ -6,7 +6,7 @@ These assignments can be implemented in any programming language(s).
 
 ## _BUS_: Bottom-Up Search
 
-_BUS_ will be the non-ML subset of [_BUSTLE_](https://arxiv.org/abs/2007.14381).
+_BUS_ is be the non-ML subset of [_BUSTLE_](https://arxiv.org/abs/2007.14381).
 
 ## _Dan_: Synthesizer of Recursive Functions
 
