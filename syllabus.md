@@ -8,7 +8,7 @@ Class meeting time: TR 11:15 – 12:30
 
 Class meeting room: SEC 1.307
 
-Course website: https://synthesis.metareflection.club
+Course website: [https://synthesis.metareflection.club](https://synthesis.metareflection.club)
 
 Instructor: Nada Amin (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
 
