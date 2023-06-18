@@ -1,7 +1,7 @@
 # Assignments
 
 We will have two assignments early on.
-These assignments can be implemented in any programming language.
+These assignments can be implemented in any programming language(s).
 (We have done them in the Scheme programming language.)
 
 ## _BUS_: Bottom-Up Search
