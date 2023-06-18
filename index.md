@@ -9,6 +9,8 @@ Students will design and implement [two assignments](assignments.html) and a fin
 Each student will also present a paper and lead the discussion for one session.
 
 - [Syllabus](syllabus.html)
+- [Papers](papers.html)
+- [Schedule](schedule.html)
 
 ## Resources
 
