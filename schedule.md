@@ -2,60 +2,86 @@
 
 ## Week 1
 
-### Tuesday
+### Tuesday, September 5
 
-### Thursday
+### Thursday, September 7
 
 ## Week 2
 
-### Tuesday
+### Tuesday, September 12
 
-### Thursday
+### Thursday, September 14
 
 ## Week 3
 
-### Tuesday
+### Tuesday, September 19
 
-### Thursday
+### Thursday, September 21
 
 ## Week 4
 
-### Tuesday
+### Tuesday, September 26
 
-### Thursday
+### Thursday, September 28
 
 ## Week 5
 
-### Tuesday
+### Tuesday, October 3
 
-### Thursday
+### Thursday, October 5
 
 ## Week 6
 
-### Tuesday
+### Tuesday, October 10
 
-### Thursday
+### Thursday, October 12
 
 ## Week 7
 
-### Tuesday
+### Tuesday, October 17
 
-### Thursday
+### Thursday, October 19
 
 ## Week 8
 
-### Tuesday
+### Tuesday, October 24
 
-### Thursday
+### Thursday, October 26
 
 ## Week 9
 
-### Tuesday
+### Tuesday, October 31
 
-### Thursday
+### Thursday, November 2
 
 ## Week 10
 
-### Tuesday
+### Tuesday, November 7
 
-### Thursday
+### Thursday, November 9
+
+## Week 11
+
+### Tuesday, November 14
+
+### Thursday, November 16
+
+## Week 12
+
+### Tuesday, November 21
+
+### Thursday, November 23
+
+Thanksgiving.
+
+## Week 13
+
+### Tuesday, November 28
+
+### Thursday, November 30
+
+## Week 14
+
+### Tuesday, December 5
+
+Last day of classes.
