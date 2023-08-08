@@ -2,7 +2,7 @@
 
 We will have two assignments early on.
 These assignments can be implemented in any programming language(s).
-(We have done them in the Scheme programming language.)
+(We have done them in the Scala, Python and Scheme.)
 
 ## _BUS_: Bottom-Up Search
 
