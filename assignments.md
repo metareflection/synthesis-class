@@ -16,3 +16,7 @@ You can pick your own target language as well. We have picked a subset of Scheme
 
 _Dan_ writes recursive functions in the style taught by Daniel P. Friedman (_The Little Schemer_, _The Little Learner_).
 _Dan_ calls _BUS_ to solve cases, both base cases and recursive cases.
+
+Your task is to handle more complex expressions than in your previous assignment, for example involving conditionals, loops and recursion.
+
+One approach is _Dan_. You may devise any approach inspired by the literature.
