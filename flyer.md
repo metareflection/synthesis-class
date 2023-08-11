@@ -1,6 +1,6 @@
 # Flyer for CS252R Fall 2023
 
-This year, our exploration takes us to the cutting-edge field of program synthesis. Program synthesis is the process of automatically discovering a program that satisfies a high-level specification, and it is often considered the pinnacle of programming language research. Reflecting its profound impact and challenge, since the inception of the field, solving program synthesis has been seen as equivalent to Artificial General Intelligence (AGI).
+This year, our exploration takes us to the cutting-edge field of program synthesis. Program synthesis is the process of automatically discovering a program that satisfies a high-level specification, and it is often considered the pinnacle of programming language research. Reflecting its profound impact and challenge, the goal of solving program synthesis has been seen as equivalent to Artificial General Intelligence (AGI) since the inception of AI.
 
 Current successes of program synthesis include automating repetitive tasks, enabling non-programmers to create software, and optimizing code for performance and efficiency. Other applications encompass automatic code repair, educational support for teaching programming, theorem proving, and even game development. These innovations are unleashing new levels of autonomy, creativity, and efficiency across various domains.
 
