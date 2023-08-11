@@ -8,6 +8,7 @@ Topics include inductive synthesis, bottom up search, top down search, constrain
 Students will design and implement [two assignments](assignments.html) and a final project in the language(s) of their choice.
 Each student will also present a paper and lead the discussion for one session.
 
+- [Flyer](flyer.html)
 - [Syllabus](syllabus.html)
 - [Assignments](assignments.html)
 - [Papers](papers.html)
