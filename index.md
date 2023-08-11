@@ -1,14 +1,37 @@
 # Program Synthesis
 
-In this graduate seminar, we will look at the art of program synthesis:
-writing programs that write programs based on specifications such as input/output examples.
+This year in CS252R, our exploration takes us to the cutting-edge field of program synthesis. Program synthesis is the process of automatically discovering a program that satisfies a high-level specification, and it is often considered the pinnacle of programming language research. Reflecting its profound impact and challenge, the goal of solving program synthesis has been seen as equivalent to Artificial General Intelligence (AGI) since the inception of AI.
 
-Topics include inductive synthesis, bottom up search, top down search, constraints, miniKanren, SMT, version space algebra, e-graphs, library learning, stochastic search, neural guided search, neural theorem proving, large language models.
+Current successes of program synthesis include automating repetitive tasks, enabling non-programmers to create software, and optimizing code for performance and efficiency. Other applications encompass automatic code repair, educational support for teaching programming, theorem proving, and even game development. These innovations are unleashing new levels of autonomy, creativity, and efficiency across various domains.
 
-Students will design and implement [two assignments](assignments.html) and a final project in the language(s) of their choice.
-Each student will also present a paper and lead the discussion for one session.
+## What Will You Learn?
 
-- [Flyer](flyer.html)
+- **Components of Synthesis Systems:** Explore the key components of synthesis, which include:
+  - Program Specification;
+  - Algorithms;
+  - User-Interaction Model.
+- **Classic Methods:** Dive into the foundational techniques for program synthesis, such as:
+  - Stochastic Search-Based Synthesis;
+  - Symbolic Program Synthesis;
+  - Genetic Programming.
+- **Neural Approaches:** Explore the integration of deep learning in synthesis, focusing on techniques such as:
+  - Neural-Guided Search;
+  - Large Language Models (LLMs);
+  - Relaxations.
+- **Multidisciplinary Insights:** 
+  Understand how ideas from programming languages, artificial intelligence, human-computer interaction, algorithms, and other disciplines have influenced and shaped the field of program synthesis.
+
+## Course Structure:
+
+- **Assignments:** Get hands-on with two guided mini-projects.
+- **Paper Presentation & Discussion:** Lead the conversation on seminal research.
+- **Final Project:** Conduct original research on a topic of your choice.
+- **Guest Lectures:** Engage with industry researchers working at the cutting edge of program synthesis.
+
+Join us in CS252R!
+For more details, visit [synthesis.metareflection.club](https://synthesis.metareflection.club).
+
+
 - [Syllabus](syllabus.html)
 - [Assignments](assignments.html)
 - [Papers](papers.html)
