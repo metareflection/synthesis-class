@@ -19,7 +19,7 @@ Current successes of program synthesis include automating repetitive tasks, enab
   - Large Language Models (LLMs);
   - Relaxations.
 - **Multidisciplinary Insights:** 
-  Understand how ideas from Programming Languages (PL), Artificial Intelligence (AI), Human-Computer Interaction (HCI), algorithms, and more have influenced and shaped the field of program synthesis.
+  Understand how ideas from programming languages, artificial intelligence, human-computer interaction, algorithms, and other disciplines have influenced and shaped the field of program synthesis.
 
 ## Course Structure:
 
