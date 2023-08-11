@@ -23,7 +23,7 @@ Current successes of program synthesis include automating repetitive tasks, enab
 
 ## Course Structure:
 
-- **Two Assignments:** Get hands-on with guided projects.
+- **Assignments:** Get hands-on with two guided mini-projects.
 - **Paper Presentation & Discussion:** Lead the conversation on seminal research.
 - **Final Project:** Pursue an in-depth inquiry on a topic of your choice.
 - **Guest Lectures:** Engage with industry researchers working at the cutting edge of program synthesis.
