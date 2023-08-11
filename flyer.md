@@ -6,7 +6,7 @@ Current successes of program synthesis include automating repetitive tasks, enab
 
 ## What Will You Learn?
 
-- **Components of Synthesis Systems:** Explore the key components of synthesis which include:
+- **Components of Synthesis Systems:** Explore the key components of synthesis, which include:
   - Program Specification;
   - Algorithms;
   - User-Interaction Model.
