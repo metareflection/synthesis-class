@@ -6,20 +6,24 @@ Current successes of program synthesis include automating repetitive tasks, enab
 
 ## What Will You Learn?
 
-- **Classic Methods**: Dive into the foundational techniques for program synthesis, such as:
+- **Components of Synthesis Systems:** Explore the key components of synthesis which include:
+  - Program Specification;
+  - Algorithmitic Approach to efficiently find programs that match the specification;
+  - User-Interaction Model.
+- **Classic Methods:** Dive into the foundational techniques for program synthesis, such as:
   - Stochastic Search-Based Synthesis, which explores the program space using methods like Monte Carlo techniques;
   - Symbolic Program Synthesis, relying on logical reasoning to generate compliant programs;
-  - Genetic Programming, utilizing evolutionary algorithms to evolve programs;
-  - and Inductive Program Synthesis, inferring programs from examples such as input-output pairs.
-- **Neural Approaches**: Explore the integration of deep learning in synthesis, including Neural-Guided Program Synthesis, which leverages neural networks and deep learning techniques to guide the creation of programs.
-- **Multidisciplinary Insights**: Understand how ideas from Programming Languages (PL), Artificial Intelligence (AI), Human-Computer Interaction (HCI), algorithms, and more have influenced and shaped the field of program synthesis.
+  - Genetic Programming, utilizing evolutionary algorithms to evolve programs.
+- **Neural Approaches:** Explore the integration of deep learning in synthesis, including Neural-Guided Program Synthesis, which leverages neural networks and deep learning techniques to guide the creation of programs.
+- **Multidisciplinary Insights:** 
+  Understand how ideas from Programming Languages (PL), Artificial Intelligence (AI), Human-Computer Interaction (HCI), algorithms, and more have influenced and shaped the field of program synthesis.
 
 ## Course Structure:
 
-- **Two Warm-Up Assignments**: Get hands-on with guided projects.
-- **Paper Presentation & Discussion**: Lead the conversation on seminal research.
-- **Final Project**: Pursue an in-depth inquiry on a topic of your choice.
-- **Guest Lectures**: Engage with industry researchers working at the cutting edge of program synthesis.
+- **Two Warm-Up Assignments:** Get hands-on with guided projects.
+- **Paper Presentation & Discussion:** Lead the conversation on seminal research.
+- **Final Project:**: Pursue an in-depth inquiry on a topic of your choice.
+- **Guest Lectures:**: Engage with industry researchers working at the cutting edge of program synthesis.
 
 Join us in CS252R!
 For more details, visit [synthesis.metareflection.club](https://synthesis.metareflection.club).
