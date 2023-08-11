@@ -12,6 +12,7 @@ Each student will also present a paper and lead the discussion for one session.
 - [Assignments](assignments.html)
 - [Papers](papers.html)
 - [Schedule](schedule.html)
+- [**Pre-Course Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfSoxU4ALhut8XXSWr4IY1dLso9BQmnzN-0fatYbwUnSBUilg/viewform)
 
 ## Resources
 
