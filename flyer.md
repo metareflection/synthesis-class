@@ -1,4 +1,4 @@
-# Flyer for CS252R Fall 2013
+# Flyer for CS252R Fall 2023
 
 This year, our exploration takes us to the cutting-edge field of program synthesis. Arguably considered the pinnacle of programming language research and even equivalent to Artificial General Intelligence (AGI), program synthesis is the process of automatically discovering a program that satisfies a higher-level specification. 
 
