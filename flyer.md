@@ -2,7 +2,7 @@
 
 This year, our exploration takes us to the cutting-edge field of program synthesis. Program synthesis is the process of automatically discovering a program that satisfies a high-level specification; it is often considered the pinnacle of programming language research. Since the inception of the field, solving program synthesis has been considered equivalent to Artificial General Intelligence (AGI), 
 
-Program synthesis has the potential to revolutionize computing by automating repetitive tasks to reduce manual coding, enabling non-programmers to create software, and optimizing code for performance and efficiency. Its applications extend to automatic code repair, educational support for teaching programming, accessibility tooling, theorem proving, and even game development, unleashing new levels of creativity and efficiency across various domains.
+Current successes of program synthesis include automating repetitive tasks, enabling non-programmers to create software, and optimizing code for performance and efficiency. Other applications include automatic code repair, educational support for teaching programming, theorem proving, and even game development, unleashing new levels of creativity and efficiency across various domains.
 
 ## What Will You Learn?
 
