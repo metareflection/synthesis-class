@@ -28,10 +28,6 @@ Current successes of program synthesis include automating repetitive tasks, enab
 - **Final Project:** Conduct original research on a topic of your choice.
 - **Guest Lectures:** Engage with industry researchers working at the cutting edge of program synthesis.
 
-Join us in CS252R!
-For more details, visit [synthesis.metareflection.club](https://synthesis.metareflection.club).
-
-
 - [Syllabus](syllabus.html)
 - [Assignments](assignments.html)
 - [Papers](papers.html)
