@@ -8,7 +8,7 @@ Current successes of program synthesis include automating repetitive tasks, enab
 
 - **Components of Synthesis Systems:** Explore the key components of synthesis which include:
   - Program Specification;
-  - Algorithmitic Approach to efficiently find programs that match the specification;
+  - Algorithms to efficiently find programs that match the specification;
   - User-Interaction Model.
 - **Classic Methods:** Dive into the foundational techniques for program synthesis, such as:
   - Stochastic Search-Based Synthesis, which explores the program space using methods like Monte Carlo techniques;
