@@ -14,7 +14,7 @@ Current successes of program synthesis include automating repetitive tasks, enab
   - Stochastic Search-Based Synthesis;
   - Symbolic Program Synthesis;
   - Genetic Programming.
-- **Neural Approaches:** Explore the integration of deep learning in synthesis, such as:
+- **Neural Approaches:** Explore the integration of deep learning in synthesis, focusing on techniques such as:
   - Neural-Guided Search;
   - Large Language Models (LLMs);
   - Relaxations.
