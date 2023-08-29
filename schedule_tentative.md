@@ -89,7 +89,7 @@ Verification
 
 ### Thursday, November 2
 
-Probabilistic techniques, including genetic programming
+Probabilistic modeling or genetic programming
 
 ## Week 10: Project brainstorming
 
