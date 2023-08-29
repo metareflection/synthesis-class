@@ -21,71 +21,101 @@ Dr. Will Byrd will present an introduction to relational programming and to the 
 
 Dr. Will Byrd and Prof. Nada Amin will continue presenting relational programming, and possibly its extension in staged relational programming.
 
-## Week 3: Bottom-Up Enumerative Search
+## Week 3: Enumerative Synthesis
 
 ### Tuesday, September 19
 
-Escher
+Bottom-Up Explicit Search: BUSTLE (Neural Guided), Escher, angelic execution
 
 ### Thursday, September 21
 
-Angelic Execution
+Top-Down Search: Osera
 
-## Week 4: Type-Directed Search
+## Week 4: Inductive Synthesis
 
 ### Tuesday, September 26
 
-Osera
+SKETCH
 
 ### Thursday, September 28
 
-Refinement Types
+Programming by Demonstration
 
-## Week 5: Neural-Guided Search
+## Week 5: Deductive Synthesis
 
 ### Tuesday, October 3
 
+Logic, Refinement Types
+
 ### Thursday, October 5
+
+Fiat
 
 ## Week 6: VSA, e-graphs, and tree automata
 
 ### Tuesday, October 10
 
+VSA, FlashMeta
+
 ### Thursday, October 12
+
+e-graphs
 
 ## Week 7: LLMs
 
 ### Tuesday, October 17
 
+Transformers
+
 ### Thursday, October 19
 
-## Week 8: SMT Solvers
+LLMs
+
+## Week 8: Library Learning
 
 ### Tuesday, October 24
 
+Dreamcoder, Stitch
+
 ### Thursday, October 26
 
-## Week 9: Library Learning
+babble
+
+## Week 9: Misc Topics
 
 ### Tuesday, October 31
 
+Verification
+
 ### Thursday, November 2
 
-## Week 10: Verification
+Probabilistic techniques, including genetic programming
+
+## Week 10: Project brainstorming
 
 ### Tuesday, November 7
 
+Discussion of favorite topics so far
+
 ### Thursday, November 9
 
-## Week 11: CROSSBEAM / Bustle
+Discussion of how to extend works we've seen
+
+## Week 11: Project proposals
 
 ### Tuesday, November 14
 
+Project proposals
+
 ### Thursday, November 16
 
-## Week 12: Buffer
+Project proposals
+
+## Week 12: Related work for projects
 
 ### Tuesday, November 21
+
+Related work for projects
 
 ### Thursday, November 23
 
