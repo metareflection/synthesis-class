@@ -12,7 +12,7 @@ Course website: [https://synthesis.metareflection.club](https://synthesis.metare
 
 Instructor: [Nada Amin](https://namin.seas.harvard.edu) (<a href="mailto:namin@seas.harvard.edu">namin@seas.harvard.edu</a>)
 
-Teaching Fellow: TBD
+Teaching Fellow: Tyler Holloway (<a href="mailto:tylerholloway@g.harvard.edu">tylerholloway@g.harvard.edu</a>)
 
 ## Course description
 
