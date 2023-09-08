@@ -4,13 +4,22 @@
 
 ### Tuesday, September 5
 
+Teaching Fellow Tyler Holloway gives an overview of the course.
+
 ### Thursday, September 7
+
+Professor Nada Amin talks about syntax-guided synthesis and enumerative search.
 
 ## Week 2
 
 ### Tuesday, September 12
 
+We set the schedule for the course.
+
 ### Thursday, September 14
+
+Guest William E. Byrd presents the following paper and leads the discussion:
+- William E. Byrd, Michael Ballantyne, Gregory Rosenblatt, and Matthew Might. [_A Unified Approach to Solving Seven Programming Problems (Functional Pearl)_](http://dl.acm.org/citation.cfm?id=3110252&CFID=976617079), ICFP 2017 ([interactive version](https://io.livecode.ch/learn/gregr/icfp2017-artifact-auas7pp))
 
 ## Week 3
 
