@@ -1,0 +1,30 @@
+input/output examples:
+"hello" -> "h"
+"world" -> "w"
+arguments: x
+solution: Left(input(x), 1)
+
+input/output examples:
+"hello" -> "o"
+"world" -> "d"
+arguments: x
+solution: Right(input(x), 1)
+
+input/output examples:
+"hello", "you" -> "helloyou"
+"world", "domination" -> "worlddomination"
+arguments: x, y
+solution: Concatenate(input(x), input(y))
+
+input/output examples:
+"hello", "you" -> "hello you"
+"world", "domination" -> "world domination"
+arguments: x, y
+solution: Concatenate(Concatenate(input(x), " "), input(y))
+
+input/output examples:
+"hello" -> "ho"
+"world" -> "wd"
+"domination" -> "dn"
+arguments: x
+solution: Concatenate(Left(input(x), 1), Right(input(x), 1))
