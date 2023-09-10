@@ -24,7 +24,7 @@ Each data entry is of the form
 
 Each data entry comes from _Dan_ (see the **next** assignment below) delegating a subcase to _BUS_.
 
-For example, here are the two entries for filtering out and filtering in:
+For example, here are the two data entries for `filter`, a function that takes a predicate and a list, and returns a list of only the elements in the input list satisfying the predicate. There are two recursive cases to consider in the definition of filter: when the first element of the list does not satisfy the predicate, in which case it is discarded (right-hand side solution `?rec`), and when the first element of the list satisfies the predicate, in which case it is kept (right-hand side solution `(cons (car xs) ?rec)`).
 
 ```
  (filter
