@@ -22,7 +22,7 @@ Each data entry is of the form
 
 ```(<name> (<arg> ...) (((f <input> ...) <output>) ...) <solution>)```
 
-Each data entry comes from _Dan_ (see below) delegating a subcase to _BUS_.
+Each data entry comes from _Dan_ (see the **next** assignment below) delegating a subcase to _BUS_.
 
 For example, here are the two entries for filtering out and filtering in:
 
