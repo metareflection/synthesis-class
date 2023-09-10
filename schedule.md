@@ -25,6 +25,9 @@ Guest William E. Byrd presents the following paper and leads the discussion:
 
 ### Tuesday, September 19
 
+Kevin Zhang presents the following paper and leads the discussion:
+- Peter-Michael Osera and Steve Zdancewic. [_Type-and-example-directed program synthesis_](https://dl.acm.org/doi/10.1145/2813885.2738007), PLDI 2015 ([code](https://github.com/silky/myth))
+
 ### Thursday, September 21
 
 ## Week 4
