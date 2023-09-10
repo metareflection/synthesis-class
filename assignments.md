@@ -14,7 +14,7 @@ You can pick your own target language(s) as well.
 Your implementation should be generic and support more than one target language.
 For example, when I (Prof. Amin) did this assignment, I picked two target languages: a subset of Scheme and the FlashFill-like string manipulation DSL used in the _BUSTLE_ paper.
 
-If you'd like to look at the test data that I used for the two target languages, they are here:
+If you'd like to look at the test data that I used for the two target languages, they are here.
 
 ### [Test data](data/bottomup.scm) for the Scheme subset
 
