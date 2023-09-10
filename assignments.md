@@ -45,7 +45,7 @@ For example, here are the two data entries for `filter`, a function that takes a
    (cons (car xs) ?rec))
 ```
 
-### [Test data](data/bottomup.txt) for the string manipulation DSL.
+### [Test data](data/bottomup.txt) for the string manipulation DSL
 
 ### Hints
 
