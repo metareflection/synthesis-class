@@ -22,10 +22,11 @@ Each data entry is of the form
 
 ```(<name> (<arg> ...) (((f <input> ...) <output>) ...) <solution>)```
 
-Each data entry comes from _Dan_ (see the **next** assignment below) delegating a subcase to _BUS_.
+Each data entry comes from _Dan_ (see the **next** assignment below) delegating a recursive subcase to _BUS_. The argument `?rec` represents the recursive call.
 
 For example, here are the two data entries for `filter`, a function that takes a predicate and a list, and returns a list of only the elements in the input list satisfying the predicate. There are two recursive cases to consider in the definition of filter: when the first element of the list does not satisfy the predicate, in which case it is discarded (right-hand side solution `?rec`), and when the first element of the list satisfies the predicate, in which case it is kept (right-hand side solution `(cons (car xs) ?rec)`).
 
+#### Data entry for filter case for `(car xs)` not satisfying predicate
 ```
  (filter
    (?rec p xs)
@@ -34,7 +35,10 @@ For example, here are the two data entries for `filter`, a function that takes a
      ((f '(2 1) (lambda (x) (not (= x 0))) '(0 2 1 0)) (2 1))
      ((f '() (lambda (x) (not (= x 0))) '(0)) ()))
    ?rec)
+```
 
+#### Data entry for filter case for `(car xs)` satisfying predicate
+```
  (filter
    (?rec p xs)
    (((f '(2) even? '(4 2 1)) (4 2))
