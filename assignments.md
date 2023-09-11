@@ -4,7 +4,7 @@ We will have two assignments early on.
 These assignments can be implemented in any programming language(s).
 (We have done them in the Scala, Python and Scheme.)
 
-## _BUS_: Bottom-Up Search
+## (**Assignment 1**) _BUS_: Bottom-Up Search
 
 _BUS_ is the non-ML subset of [_BUSTLE_](https://arxiv.org/abs/2007.14381).
 
@@ -56,7 +56,7 @@ For example, here are the two data entries for `filter`, a function that takes a
 Note that the bottom-up search requires both the syntax and semantics of the target language.
 For example, if you have an expression language, you might have a grammar rule `e -> e + e` and a semantic rule to compute the addition given the values of two expressions.
 
-## _Dan_: Synthesizer of Recursive Functions
+## (**Assignment 2**) _Dan_: Synthesizer of Recursive Functions
 
 _Dan_ writes recursive functions in the style taught by Daniel P. Friedman (_The Little Schemer_, _The Little Learner_).
 _Dan_ calls _BUS_ to solve cases, both base cases and recursive cases.
