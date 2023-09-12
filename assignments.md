@@ -61,6 +61,8 @@ For example, if you have an expression language, you might have a grammar rule `
 _Dan_ writes recursive functions in the style taught by Daniel P. Friedman (_The Little Schemer_, _The Little Learner_).
 _Dan_ calls _BUS_ to solve cases, both base cases and recursive cases.
 
-Your task is to handle more complex expressions than in your previous assignment, for example involving conditionals, loops and recursion.
+Your task is to handle more complex expressions than in your previous assignment, for example involving conditionals, loops and recursion, or just larger programs in general.
+
+Show an example program that doesn't work with the _BUS_ but works here.
 
 One approach is _Dan_. You may devise any approach inspired by the literature.
