@@ -15,21 +15,21 @@ She will also introduce the assignments.
 
 ### Tuesday, September 12
 
-Dr. Will Byrd will present an introduction to relational programming and to the relational interpreter which can be used for synthesis.
+We will make the schedule.
 
 ### Thursday, September 14
 
-Dr. Will Byrd and Prof. Nada Amin will continue presenting relational programming, and possibly its extension in staged relational programming.
+Dr. Will Byrd will present an introduction to relational programming and to the relational interpreter which can be used for synthesis.
 
 ## Week 3: Enumerative Synthesis
 
 ### Tuesday, September 19
 
-Bottom-Up Explicit Search: BUSTLE (Neural Guided), Escher, angelic execution
+Top-Down Search: Osera
 
 ### Thursday, September 21
 
-Top-Down Search: Osera
+Bottom-Up Explicit Search: BUSTLE (Neural Guided), Escher, angelic execution
 
 ## Week 4: Inductive Synthesis
 

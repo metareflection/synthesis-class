@@ -82,6 +82,8 @@ Kevin Zhang presents the following paper and leads the discussion:
 
 ### Tuesday, November 21
 
+Buffer class.
+
 ### Thursday, November 23
 
 Thanksgiving.
@@ -90,10 +92,16 @@ Thanksgiving.
 
 ### Tuesday, November 28
 
+Project presentations.
+
 ### Thursday, November 30
+
+Project presentations.
 
 ## Week 14
 
 ### Tuesday, December 5
+
+Project presentations.
 
 Last day of classes.
