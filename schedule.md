@@ -93,7 +93,7 @@ Daniel presents an introduction to program repair and its application to robotic
 
 ### Tuesday, October 17
 
-Raffi Sanna will present a session on Inductive Logic Programming (ILP).
+Raffi Sanna presents a session on Inductive Logic Programming (ILP).
 
 ### Thursday, October 19 (Assignment 1 Due)
 
@@ -105,14 +105,15 @@ Session to debrief on first assignment.
 
 Session on formal mathematics with LLMs.
 
-Andrew Sima will present the following paper and lead the discussion.
+Andrew Sima presents the following paper and leads the discussion.
 - _Generative Language Modeling for Automated Theorem Proving_
 
-Prof. Nada Amin will demo work on formal verification with LLMs.
+Chloe Loughridge prsents the following paper and leads the discussion.
+- Nora Kassner, Oyvind Tafjord, Ashish Sabharwal, Kyle Richardson, Hinrich Schutze, Peter Clark. [_Language Models with Rationality_](https://arxiv.org/abs/2305.14250) (REFLEX)
 
 ### Thursday, October 26
 
-Ayush Noori and Will Byrd will present on applications of synthesis to biomedical domains.
+Ayush Noori and Will Byrd present on applications of synthesis to biomedical domains.
 
 Useful background: LLMs, diffusion models, GANs, reinforcement learning, ILP.
 
