@@ -108,7 +108,7 @@ Session on formal mathematics with LLMs.
 Andrew Sima presents the following paper and leads the discussion.
 - _Generative Language Modeling for Automated Theorem Proving_
 
-Chloe Loughridge prsents the following paper and leads the discussion.
+Chloe Loughridge presents the following paper and leads the discussion.
 - Nora Kassner, Oyvind Tafjord, Ashish Sabharwal, Kyle Richardson, Hinrich Schutze, Peter Clark. [_Language Models with Rationality_](https://arxiv.org/abs/2305.14250) (REFLEX)
 
 ### Thursday, October 26
