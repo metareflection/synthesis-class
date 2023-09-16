@@ -36,7 +36,7 @@ Acer Iverson presents the following paper and leads the discussion:
 ### Thursday, September 21
 
 Shashi Gowda presents methods for dealing with large space of programs, such as e-graphs, Version Space Algebras (VSA), tree automata.
-- Rosette stone
+- Rosetta stone
 - _FlashMeta: a framework for inductive program synthesis_ (as an application of VSA)
 
 Azim Raheem presents the following paper, which applies tree automata:
