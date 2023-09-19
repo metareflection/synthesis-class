@@ -30,16 +30,16 @@ Session top-down type-driven synthesis.
 Kevin Zhang presents the following paper and leads the discussion:
 - Peter-Michael Osera and Steve Zdancewic. [_Type-and-example-directed program synthesis_](https://dl.acm.org/doi/10.1145/2813885.2738007), PLDI 2015 ([code](https://github.com/silky/myth))
 
+### Thursday, September 21
+
 Acer Iverson presents the following paper and leads the discussion:
 - Nadia Polikarpova, Ivan Kuraj, Armando Solar-Lezama. [_Program Synthesis from Polymorphic Refinement Types_](https://cseweb.ucsd.edu/~npolikarpova/publications/pldi16.pdf), PLDI 2016 ([demo](http://comcom.csail.mit.edu/comcom/#Synquid), [code](https://github.com/nadia-polikarpova/synquid))
-
-### Thursday, September 21
 
 Shashi Gowda presents methods for dealing with large space of programs, such as e-graphs, Version Space Algebras (VSA), tree automata.
 - Rosetta stone
 - _FlashMeta: a framework for inductive program synthesis_ (as an application of VSA)
 
-Azim Raheem presents the following paper, which applies tree automata:
+_SOMETIME_, Azim Raheem presents the following paper, which applies tree automata:
 - Anders Miltner, Adrian Trejo Nuñez, Ana Brendel, Swarat Chaudhuri, and Isil Dillig. [_Bottom-up synthesis of recursive functional programs using angelic execution_](https://dl.acm.org/doi/abs/10.1145/3498682), POPL 2022 ([code](https://github.com/amiltner/BurstArtifactEvaluation))
 
 ## Week 4
