@@ -39,9 +39,6 @@ Shashi Gowda presents methods for dealing with large space of programs, such as 
 - Rosetta stone
 - _FlashMeta: a framework for inductive program synthesis_ (as an application of VSA)
 
-_SOMETIME_, Azim Raheem presents the following paper, which applies tree automata:
-- Anders Miltner, Adrian Trejo Nuñez, Ana Brendel, Swarat Chaudhuri, and Isil Dillig. [_Bottom-up synthesis of recursive functional programs using angelic execution_](https://dl.acm.org/doi/abs/10.1145/3498682), POPL 2022 ([code](https://github.com/amiltner/BurstArtifactEvaluation))
-
 ## Week 4
 
 ### Tuesday, September 26
@@ -53,10 +50,10 @@ Matt Kotzbauer and Sibi Raja present on library learning and lead the discussion
 
 ### Thursday, September 28
 
-Potential guest lecture by David Bieber, likely on Zoom.
-- _BUSTLE: Bottom-up program-Synthesis Through Learning-guided Exploration_
-- _TF-Coder: Program Synthesis for Tensor Manipulations_
-- _Show Your Work: Scratchpads for Intermediate Computation with Language Models_
+Azim Raheem presents the following paper, which applies tree automata:
+- Anders Miltner, Adrian Trejo Nuñez, Ana Brendel, Swarat Chaudhuri, and Isil Dillig. [_Bottom-up synthesis of recursive functional programs using angelic execution_](https://dl.acm.org/doi/abs/10.1145/3498682), POPL 2022 ([code](https://github.com/amiltner/BurstArtifactEvaluation))
+
+We will discuss the assignments in the remaining time.
 
 ## Week 5
 
@@ -133,6 +130,11 @@ Leonard Tang presents the following paper and leads the discussion:
 ## Week 10
 
 ### Tuesday, November 7
+
+Potential guest lecture by David Bieber, likely on Zoom.
+- _BUSTLE: Bottom-up program-Synthesis Through Learning-guided Exploration_
+- _TF-Coder: Program Synthesis for Tensor Manipulations_
+- _Show Your Work: Scratchpads for Intermediate Computation with Language Models_
 
 ### Thursday, November 9
 
