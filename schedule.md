@@ -131,12 +131,12 @@ Leonard Tang presents the following paper and leads the discussion:
 
 ### Tuesday, November 7
 
-Potential guest lecture by David Bieber, likely on Zoom.
+### Thursday, November 9
+
+Guest lecture by David Bieber, likely on Zoom.
 - _BUSTLE: Bottom-up program-Synthesis Through Learning-guided Exploration_
 - _TF-Coder: Program Synthesis for Tensor Manipulations_
 - _Show Your Work: Scratchpads for Intermediate Computation with Language Models_
-
-### Thursday, November 9
 
 ## Week 11
 
