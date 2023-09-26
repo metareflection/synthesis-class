@@ -142,6 +142,8 @@ Guest lecture by David Bieber, likely on Zoom.
 
 ### Tuesday, November 14
 
+Guest lecture by Jesse Han on _"Verified program synthesis in the age of LLMs"_.
+
 ### Thursday, November 16
 
 ## Week 12
