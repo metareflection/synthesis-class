@@ -77,7 +77,10 @@ Binita Gupta and Sean Yang survey works on verification of output for LLMs:
 
 ### Tuesday, October 10
 
-Embedded Ethics
+Dr. Eamon Duede presents and leads a session on Embedded Ethics.
+- (Required) Bommasani, Rishi, Kathleen A. Creel, Ananya Kumar, Dan Jurafsky, and Percy S. Liang. _"Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?."_ Advances in Neural Information Processing Systems 35 (2022): 3663-3678.
+- (Suggested) Muller, Michael, Steven Ross, Stephanie Houde, Mayank Agarwal, Fernando Martinez, John Richards, Kartik Talamadupula, and Justin D. Weisz. _"Drinking Chai with Your (AI) Programming Partner: A Design Fiction about Generative AI for Software Engineering."_ In HAI-GEN Workshop at IUI 2022: 3rd Workshop on Human-AI Co-Creation with Generative Models. 2022.
+- (Optional) Toups, Connor, Rishi Bommasani, Kathleen A. Creel, Sarah H. Bana, Dan Jurafsky, and Percy Liang. _"Ecosystem-level Analysis of Deployed Machine Learning Reveals Homogeneous Outcomes."_ arXiv preprint arXiv:2307.05862 (2023).
 
 ### Thursday, October 12
 
