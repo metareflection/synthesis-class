@@ -149,6 +149,9 @@ Guest lecture by Jesse Han on _"Verified program synthesis in the age of LLMs"_.
 
 ### Thursday, November 16
 
+Chloe Loughridge presents the following paper and leads the discussion.
+- Nora Kassner, Oyvind Tafjord, Ashish Sabharwal, Kyle Richardson, Hinrich Schutze, Peter Clark. [_Language Models with Rationality_](https://arxiv.org/abs/2305.14250) (REFLEX)
+
 ## Week 12
 
 ### Tuesday, November 21
