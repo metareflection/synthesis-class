@@ -85,9 +85,13 @@ Dr. Eamon Duede presents and leads a session on Embedded Ethics.
 ### Thursday, October 12
 
 Daniel presents an introduction to program repair and its application to robotics.
-- _Natural Language Robot Programming: NLP integrated with autonomous robotic grasping_
-- _SemFix: Program repair via semantic analysis_
-- _CURE: Code-Aware Neural Machine Translation for Automatic Program Repair_
+- [_CURE: Code-Aware Neural Machine Translation for Automatic Program Repair_](https://www.cs.purdue.edu/homes/lintan/publications/cure-icse21.pdf)
+- [_Interactive Synthesis of Temporal Specifications from Examples and Natural Language_](https://dl.acm.org/doi/pdf/10.1145/3428269)
+
+Further readings:
+- [_A Survey on Software Fault Localization_](https://ieeexplore.ieee.org/document/7390282)
+- [_A Survey on Automated Program Repair Techniques_](https://arxiv.org/pdf/2303.18184.pdf)
+- [_Program Repair_](https://arxiv.org/pdf/2211.12787.pdf)
 
 ## Week 7
 
