@@ -101,7 +101,9 @@ Raffi Sanna presents a session on Inductive Logic Programming (ILP).
 
 ### Thursday, October 19 (Assignment 1 Due)
 
-Session to debrief on first assignment.
+Guest lecture by Gabe Grand, who presents his work on LILO and leads the discussion.
+- See [his master thesis at MIT](https://dspace.mit.edu/handle/1721.1/151322).
+
 
 ## Week 8
 
