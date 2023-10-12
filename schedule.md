@@ -140,6 +140,8 @@ Leonard Tang presents the following paper and leads the discussion:
 
 ### Tuesday, November 7
 
+Grace Li presents ands leads a session on Genetic Programming.
+
 ### Thursday, November 9
 
 Guest lecture by David Bieber, likely on Zoom.
