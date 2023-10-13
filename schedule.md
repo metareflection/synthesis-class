@@ -98,6 +98,8 @@ Further readings:
 ### Tuesday, October 17
 
 Raffi Sanna presents a session on Inductive Logic Programming (ILP).
+- [_Inverse Entailment and Progol_](https://www.doc.ic.ac.uk/~shm/Papers/InvEnt.pdf)
+- [_Inductive logic programming at 30: a new introduction_](https://arxiv.org/abs/2008.07912)
 
 ### Thursday, October 19 (Assignment 1 Due)
 
