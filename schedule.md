@@ -131,7 +131,7 @@ Useful background: LLMs, diffusion models, GANs, reinforcement learning, ILP.
 Alex Bai presents the following paper and leads the discussion:
 - _Leveraging Rust Types for Program Synthesis_
 
-In the remaining time, we will discuss the second assignment.
+In the remaining time, we will discuss assignments and proposals.
 
 ### Thursday, November 2
 
