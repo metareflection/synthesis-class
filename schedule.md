@@ -126,7 +126,7 @@ Useful background: LLMs, diffusion models, GANs, reinforcement learning, ILP.
 
 ## Week 9
 
-### Tuesday, October 31 (Assignment 2 due)
+### Tuesday, October 31 (Project Proposals Due)
 
 Alex Bai presents the following paper and leads the discussion:
 - _Leveraging Rust Types for Program Synthesis_
