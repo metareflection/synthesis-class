@@ -146,7 +146,7 @@ Grace Li presents ands leads a session on Genetic Programming.
 
 ### Thursday, November 9
 
-Guest lecture by David Bieber, likely on Zoom.
+Guest lecture by David Bieber. His works include:
 - _BUSTLE: Bottom-up program-Synthesis Through Learning-guided Exploration_
 - _TF-Coder: Program Synthesis for Tensor Manipulations_
 - _Show Your Work: Scratchpads for Intermediate Computation with Language Models_
