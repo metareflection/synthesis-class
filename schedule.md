@@ -98,6 +98,8 @@ Further readings:
 ### Tuesday, October 17
 
 Raffi Sanna presents a session on Inductive Logic Programming (ILP).
+- [_Inverse Entailment and Progol_](https://www.doc.ic.ac.uk/~shm/Papers/InvEnt.pdf)
+- [_Inductive logic programming at 30: a new introduction_](https://arxiv.org/abs/2008.07912)
 
 ### Thursday, October 19 (Assignment 1 Due)
 
@@ -124,12 +126,12 @@ Useful background: LLMs, diffusion models, GANs, reinforcement learning, ILP.
 
 ## Week 9
 
-### Tuesday, October 31 (Assignment 2 due)
+### Tuesday, October 31 (Project Proposals Due)
 
 Alex Bai presents the following paper and leads the discussion:
 - _Leveraging Rust Types for Program Synthesis_
 
-In the remaining time, we will discuss the second assignment.
+In the remaining time, we will discuss assignments and proposals.
 
 ### Thursday, November 2
 
@@ -144,8 +146,8 @@ Grace Li presents ands leads a session on Genetic Programming.
 
 ### Thursday, November 9
 
-Guest lecture by David Bieber, likely on Zoom.
-- _BUSTLE: Bottom-up program-Synthesis Through Learning-guided Exploration_
+Guest lecture by David Bieber. His works include:
+- _BUSTLE: Bottom-Up Program Synthesis Through Learning-Guided Exploration_
 - _TF-Coder: Program Synthesis for Tensor Manipulations_
 - _Show Your Work: Scratchpads for Intermediate Computation with Language Models_
 
