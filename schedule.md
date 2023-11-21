@@ -175,7 +175,11 @@ Thanksgiving.
 
 ### Tuesday, November 28
 
-Project presentations.
+We will decide on the schedule of presentations.
+
+Prof. Nada Amin and Sibi Raja will two projects:
+- [LLM verified with Monte Carlo Tree Search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
+- Belief graphs for solving 5-minute mysteries
 
 ### Thursday, November 30
 
