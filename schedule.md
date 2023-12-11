@@ -177,7 +177,7 @@ Thanksgiving.
 
 We will decide on the schedule of presentations.
 
-Prof. Nada Amin and Sibi Raja will two projects:
+Prof. Nada Amin and Sibi Raja presents two projects:
 - [LLM verified with Monte Carlo Tree Search](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)
 - Belief graphs for solving 5-minute mysteries
 
